@@ -3,114 +3,64 @@ LUNECLIPSE END USER LICENSE AGREEMENT
 Last updated: November 5, 2026
 Copyright (c) 2026 Luneclipse. All rights reserved.
 
-This End User License Agreement ("Agreement") is between you and Luneclipse ("Luneclipse", "we",
-"us") and covers the Luneclipse software, including its installer, updates, sounds, icons,
-documentation and other materials (the "Software").
+This End User License Agreement ("Agreement") is between you and Luneclipse ("Luneclipse", "we", "us") and covers the Luneclipse software, including its installer, updates, sounds, icons, documentation and other materials (the "Software").
 
-PLEASE READ THIS AGREEMENT CAREFULLY. BY INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO
-BE BOUND BY IT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+PLEASE READ THIS AGREEMENT CAREFULLY. BY INSTALLING, COPYING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY IT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
 
 1. LICENSE GRANT
-   Subject to this Agreement, we grant you a limited, non-exclusive, non-transferable,
-   non-sublicensable, revocable license to install and use the Software, free of charge, on
-   computers you own or control, for any lawful purpose. The Software is licensed, not sold.
+Subject to this Agreement, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the Software, free of charge, on computers you own or control, for any lawful purpose. The Software is licensed, not sold.
 
 2. YOUR CONTENT
-   The clips, recordings and screenshots you make with the Software ("Your Content") are yours. We
-   claim no rights in them, and you may use them for any purpose, including commercially. You are
-   responsible for Your Content and for having the right to record what you record, including
-   other people's voices, games and other material.
+The clips, recordings and screenshots you make with the Software ("Your Content") are yours. We claim no rights in them, and you may use them for any purpose, including commercially. You are responsible for Your Content and for having the right to record what you record, including other people's voices, games and other material.
 
 3. RESTRICTIONS
-   Except as this Agreement, the license of an open-source component (Section 5) or applicable law
-   expressly permits, you may not:
-   a. copy the Software, except as needed to install and use it as allowed above;
-   b. sell, rent, lease, lend, sublicense, publish, share or otherwise distribute the Software, or
-      offer it for download anywhere other than the official download page;
-   c. modify, translate, adapt or create derivative works of the Software;
-   d. decompile, disassemble, decrypt or otherwise reverse engineer the Software, or attempt to
-      derive its source code;
-   e. remove, alter or obscure any copyright, trademark, license or other notice in the Software;
-   f. circumvent any technical feature of the Software, including its update signature checks; or
-   g. use the Software in breach of any law or anyone else's rights.
+Except as this Agreement, the license of an open-source component (Section 5) or applicable law expressly permits, you may not:
+a. copy the Software, except as needed to install and use it as allowed above;
+b. sell, rent, lease, lend, sublicense, publish, share or otherwise distribute the Software, or offer it for download anywhere other than the official download page;
+c. modify, translate, adapt or create derivative works of the Software;
+d. decompile, disassemble, decrypt or otherwise reverse engineer the Software, or attempt to derive its source code;
+e. remove, alter or obscure any copyright, trademark, license or other notice in the Software;
+f. circumvent any technical feature of the Software, including its update signature checks; or
+g. use the Software in breach of any law or anyone else's rights.
 
 4. OWNERSHIP
-   The Software, and all copyrights, trademarks and other intellectual property rights in it
-   (other than the open-source components in Section 5), belong to Luneclipse. We reserve all
-   rights not expressly granted to you in this Agreement.
+The Software, and all copyrights, trademarks and other intellectual property rights in it (other than the open-source components in Section 5), belong to Luneclipse. We reserve all rights not expressly granted to you in this Agreement.
 
 5. OPEN-SOURCE COMPONENTS
-   The Software includes open-source libraries, listed with their licenses in
-   THIRD-PARTY-NOTICES.txt and the "licenses" folder installed with the Software. Each is covered
-   by its own license, not by this Agreement, and nothing in this Agreement limits your rights
-   under those licenses. In particular, the libraries licensed under the GNU Lesser General Public
-   License (LGPL) are separate, replaceable files: you may replace them with your own versions,
-   and, to the extent the LGPL requires, you may modify the Software for your own use and reverse
-   engineer it to debug such modifications.
+The Software includes open-source libraries, listed with their licenses in THIRD-PARTY-NOTICES.txt and the "licenses" folder installed with the Software. Each is covered by its own license, not by this Agreement, and nothing in this Agreement limits your rights under those licenses. In particular, the libraries licensed under the GNU Lesser General Public License (LGPL) are separate, replaceable files: you may replace them with your own versions, and, to the extent the LGPL requires, you may modify the Software for your own use and reverse engineer it to debug such modifications.
 
 6. UPDATES
-   The Software checks for updates and installs them automatically. Updates may add, change or
-   remove features. Each update is covered by this Agreement unless it comes with a different
-   agreement, which then applies to it.
+The Software checks for updates and installs them automatically. Updates may add, change or remove features. Each update is covered by this Agreement unless it comes with a different agreement, which then applies to it.
 
 7. PRIVACY
-   The Software records only what you ask it to and keeps Your Content and settings on your
-   computer. To check for and download updates it contacts GitHub (github.com), which receives your
-   IP address as it would for any download. The Software sends no other information, collects no
-   analytics and contains no advertising.
+The Software records only what you ask it to and keeps Your Content and settings on your computer. To check for and download updates it contacts GitHub (github.com), which receives your IP address as it would for any download. The Software sends no other information, collects no analytics and contains no advertising.
 
 8. BETA SOFTWARE
-   The Software is a beta version. It may contain errors, and features may change or be removed.
-   Back up anything important.
+The Software is a beta version. It may contain errors, and features may change or be removed. Back up anything important.
 
 9. DISCLAIMER OF WARRANTIES
-   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY
-   KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LUNECLIPSE DISCLAIMS ALL WARRANTIES,
-   EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-   PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT AND QUIET ENJOYMENT, AND ANY WARRANTY THAT THE
-   SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED OR COMPATIBLE WITH YOUR HARDWARE OR OTHER SOFTWARE.
-   YOU USE THE SOFTWARE AT YOUR OWN RISK.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LUNECLIPSE DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT AND QUIET ENJOYMENT, AND ANY WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED OR COMPATIBLE WITH YOUR HARDWARE OR OTHER SOFTWARE. YOU USE THE SOFTWARE AT YOUR OWN RISK.
 
 10. LIMITATION OF LIABILITY
-   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LUNECLIPSE OR ITS
-   DEVELOPERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR
-   PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, CONTENT, PROFITS, REVENUE OR GOODWILL, ARISING OUT OF
-   OR RELATING TO THIS AGREEMENT OR THE USE OF, OR INABILITY TO USE, THE SOFTWARE, EVEN IF ADVISED
-   OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE
-   WILL NOT EXCEED TEN U.S. DOLLARS (US $10).
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LUNECLIPSE OR ITS DEVELOPERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, CONTENT, PROFITS, REVENUE OR GOODWILL, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE USE OF, OR INABILITY TO USE, THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE WILL NOT EXCEED TEN U.S. DOLLARS (US $10).
 
 11. YOUR STATUTORY RIGHTS
-   Some jurisdictions do not allow the exclusion of certain warranties or the limitation of
-   certain damages, so some of the above may not apply to you. Nothing in this Agreement limits any
-   rights you have as a consumer under laws that cannot be changed by contract.
+Some jurisdictions do not allow the exclusion of certain warranties or the limitation of certain damages, so some of the above may not apply to you. Nothing in this Agreement limits any rights you have as a consumer under laws that cannot be changed by contract.
 
 12. TERMINATION
-   This Agreement applies until terminated. You may terminate it at any time by uninstalling the
-   Software. It terminates automatically if you fail to comply with it. On termination you must
-   stop using the Software and delete all copies of it. Sections 2, 3, 4 and 9 to 16 survive
-   termination.
+This Agreement applies until terminated. You may terminate it at any time by uninstalling the Software. It terminates automatically if you fail to comply with it. On termination you must stop using the Software and delete all copies of it. Sections 2, 3, 4 and 9 to 16 survive termination.
 
 13. EXPORT COMPLIANCE
-   You may not use, export or re-export the Software in violation of U.S. export laws and
-   regulations or any other applicable export or sanctions laws.
+You may not use, export or re-export the Software in violation of U.S. export laws and regulations or any other applicable export or sanctions laws.
 
 14. U.S. GOVERNMENT END USERS
-   The Software is "commercial computer software" and its documentation is "commercial computer
-   software documentation" as those terms are used in 48 C.F.R. 2.101 and 227.7202. Government
-   end users acquire only the rights set out in this Agreement.
+The Software is "commercial computer software" and its documentation is "commercial computer software documentation" as those terms are used in 48 C.F.R. 2.101 and 227.7202. Government end users acquire only the rights set out in this Agreement.
 
 15. GOVERNING LAW
-   This Agreement is governed by the laws of the United States and of the U.S. state in which
-   Luneclipse's developer resides, without regard to conflict-of-law rules. The United Nations
-   Convention on Contracts for the International Sale of Goods does not apply.
+This Agreement is governed by the laws of the United States and of the U.S. state in which Luneclipse's developer resides, without regard to conflict-of-law rules. The United Nations Convention on Contracts for the International Sale of Goods does not apply.
 
 16. GENERAL
-   This Agreement is the entire agreement between you and Luneclipse about the Software and
-   replaces any earlier agreement about it. We may update this Agreement; the updated version
-   applies to versions of the Software that come with it. If any provision is held unenforceable,
-   it will be enforced to the maximum extent permitted and the rest of this Agreement remains in
-   effect. Our failure to enforce any provision is not a waiver of it. You may not assign this
-   Agreement; we may assign it, for example to a successor of the Software.
+This Agreement is the entire agreement between you and Luneclipse about the Software and replaces any earlier agreement about it. We may update this Agreement; the updated version applies to versions of the Software that come with it. If any provision is held unenforceable, it will be enforced to the maximum extent permitted and the rest of this Agreement remains in effect. Our failure to enforce any provision is not a waiver of it. You may not assign this Agreement; we may assign it, for example to a successor of the Software.
 
 17. OFFICIAL DOWNLOAD
-   The only official download page for the Software is https://github.com/ColeC27/Luneclipse.
+The only official download page for the Software is https://github.com/ColeC27/Luneclipse.
